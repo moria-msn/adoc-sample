@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adoclist-maven-plugin" />
+        <module name="redpen-maven-plugin" />
+        <module name="asciidoctor-pdf-cjk-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adoclist-maven-plugin" target="1.8" />
+      <module name="asciidoctor-pdf-cjk-example" target="1.8" />
+      <module name="redpen-maven-plugin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

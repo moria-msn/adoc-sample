@@ -1,0 +1,30 @@
+= Asciidoctor
+
+* Cola1でソート
+
+[format="csv", options="header, autowidth"]
+|====
+include::csv/sort-Cola1.csv[]
+|====
+
+* Cola2でソート
+
+[format="csv", options="header, autowidth"]
+|====
+include::csv/sort-Cola2.csv[]
+|====
+
+* Colb1でソート
+
+[format="csv", options="header, autowidth"]
+|====
+include::csv/sort-Colb1.csv[]
+|====
+
+* Colb2でソート
+
+[format="csv", options="header, autowidth"]
+|====
+include::csv/sort-Colb2.csv[]
+|====
+

@@ -1,0 +1,62 @@
+{
+  "configs": [
+    {
+      "inputFile": "docs",
+      "resultFile": "docs/csv/sort-Cola1.csv",
+      "sortColumn": 1,
+      "filenameFilter": "test.*",
+      "header": [
+        "Cola1",
+        "Cola2"
+      ],
+      "elements": [
+        "Colav1",
+        "Colav2"
+      ]
+    },
+    {
+      "inputFile": "docs",
+      "resultFile": "docs/csv/sort-Cola2.csv",
+      "sortColumn": 2,
+      "filenameFilter": "test.*",
+      "header": [
+        "Cola1",
+        "Cola2"
+      ],
+      "elements": [
+        "Colav1",
+        "Colav2"
+      ]
+    },
+    {
+      "inputFile": "docs",
+      "resultFile": "docs/csv/sort-Colb1.csv",
+      "sortColumn": 1,
+      "filenameFilter": "test.*",
+      "header": [
+        "Colb1",
+        "Colb2"
+      ],
+      "elements": [
+        "Colbv1",
+        "Colbv2"
+      ]
+    },
+    {
+      "inputFile": "docs",
+      "resultFile": "docs/csv/sort-Colb2.csv",
+      "sortColumn": 2,
+      "filenameFilter": "test.*",
+      "header": [
+        "Colb1",
+        "Colb2"
+      ],
+      "elements": [
+        "Colbv1",
+        "Colbv2"
+      ]
+    }
+  ]
+}
+
+    

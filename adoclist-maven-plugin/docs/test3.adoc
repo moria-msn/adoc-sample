@@ -1,0 +1,10 @@
+= Asciidoctor
+:Colav1: a3
+:Colav2: b1
+:Colbv1: あ3
+:Colbv2: い1
+
+Colav1={Colav1} +
+Colav2={Colav2} +
+Colbv1={Colbv1} +
+Colbv2={Colbv2}

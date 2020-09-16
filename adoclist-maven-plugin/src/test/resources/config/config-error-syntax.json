@@ -1,0 +1,10 @@
+{
+  "configs": [
+    {
+      "inputFile": "docs",
+      "resultFile": "list1.csv"
+    },
+    {
+      "inputFile": "docs"
+    }
+  ]

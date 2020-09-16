@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adoclist-maven-plugin/adoclist-maven-plugin.iml" filepath="$PROJECT_DIR$/adoclist-maven-plugin/adoclist-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asciidoctor-pdf-cjk-example/asciidoctor-pdf-cjk-example.iml" filepath="$PROJECT_DIR$/asciidoctor-pdf-cjk-example/asciidoctor-pdf-cjk-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpen-maven-plugin/redpen-maven-plugin.iml" filepath="$PROJECT_DIR$/redpen-maven-plugin/redpen-maven-plugin.iml" />
+    </modules>
+  </component>
+</project>
